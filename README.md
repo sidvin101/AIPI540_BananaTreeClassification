@@ -61,3 +61,7 @@ Jesse Warren
 Dayeon Kang 
 
 # How to Run
+
+You can either run app.py if your would like to run this locally. Alternatively, the demo can be found through this link: https://aipi540bananatreeclassification.streamlit.app/
+
+Additionally, if you would like to run the deep learning part of the repo, please use the packages in requirements2, as the streamlit uses the non-dl approach and has no access to tensorflow. 
