@@ -56,10 +56,10 @@ sigstore==3.6.1
 sigstore-protobuf-specs==0.3.2
 sigstore-rekor-types==0.0.18
 six==1.17.0
-tensorboard==2.13.1
+tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.13.1
-tensorflow_intel==2.13.1
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
 termcolor==2.5.0
 tqdm==4.67.1
 tuf==5.1.0
