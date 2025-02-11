@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import joblib
-from cv2 import cv2
+import cv2
 from skimage.feature import hog, local_binary_pattern
 
 def extract_features(uploaded_file):
