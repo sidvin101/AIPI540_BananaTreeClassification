@@ -48,8 +48,6 @@ High accuracy (~99%) but more computationally expensive
 
 Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix  
 
-Robustness Test: Applied adversarial patches to measure impact  
-
 ## Contributors
 
 Siddarth Vinnakota  
